@@ -1,0 +1,45 @@
+{
+  "version": "3.114.36655.0",
+  "course_id": "5rc1XIk7hPd",
+  "title": "Solving Real Word Problems with Triangles and Trigonometry",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    },
+    {
+      "title": "Guided Example 1"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5u88BwaGTaV",
+      "title": "Course Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6SVSDjZ8Ko7",
+      "title": "Introduction",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6WlNbYcbc5a",
+      "title": "Word Problem",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "68aqo4wHBTv",
+      "title": "6 Problem Solving Steps",
+      "scene_index": "2.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

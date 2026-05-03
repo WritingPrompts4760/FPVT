@@ -1,0 +1,47 @@
+{
+  "version": "3.114.36655.0",
+  "course_id": "6r1thM99AtN",
+  "title": "ST",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6gGI1QBBG3L",
+      "title": "Introduction",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6OQFx8Yb7ZV",
+      "title": "Solving for Side Lengths",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5YpMXPEsux2",
+      "title": "Example 1",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "67XLeBwg1en",
+      "title": "Solving for Angles",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "67karFQ4Se9",
+      "title": "Example 1",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
