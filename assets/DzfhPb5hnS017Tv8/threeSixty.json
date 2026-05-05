@@ -1,0 +1,53 @@
+{
+  "version": "3.114.36655.0",
+  "course_id": "6lEJRJZr1IX",
+  "title": "ST",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Solving Triangles with Trigonometry"
+    },
+    {
+      "title": "Solving for Sides"
+    },
+    {
+      "title": "Solving for Angles"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6gGI1QBBG3L",
+      "title": "Main Menu",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6OQFx8Yb7ZV",
+      "title": "Introduction",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5YpMXPEsux2",
+      "title": "Process",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "67XLeBwg1en",
+      "title": "Introduction",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "67karFQ4Se9",
+      "title": "Process",
+      "scene_index": "3.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
